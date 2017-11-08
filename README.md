@@ -1,2 +1,3 @@
 This course covered essential concepts of applying Adobe Analytics and Google Analytics to digital marketing activities. The course discussed many practices such as metrics, events, traffics, conversions, campaigns, and reports. Some advanced techniques like funnels, calculated metrics, segments, and tag management are also covered. 
+
 Our project is 2017 Adobe Analytics Competition sponsored by MGM in Las Vegas. I and 2 other members collected marketing and sals data through Workspace of Adobe Analytics for MGM's properties such as Bellagio, Aria, Luxor, MGM resort, Mirage, NYNY, Mandalay Bay, ...etc. We submited our report and presented to the class. It is fun.     
